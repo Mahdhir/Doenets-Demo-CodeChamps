@@ -6,6 +6,9 @@ This project was built with Angular and Electron to run as a native desktop appl
 The .exe file can be found in —-win32-x64 folder.
 
 # Dependencies
+
 FileSaver.js 
+
 Ngx Toastr
+
 Bootstrap
