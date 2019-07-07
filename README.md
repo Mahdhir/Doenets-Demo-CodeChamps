@@ -12,3 +12,7 @@ FileSaver.js
 Ngx Toastr
 
 Bootstrap
+
+Angular 
+
+Electron Js
